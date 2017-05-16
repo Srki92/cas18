@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aktivnosti</string>
+    <string name="start_activity">Startuj aktivnost</string>
+    <string name="open_browser">Otvori web pretrazivac</string>
+    <string name="open_camera">Otvori kameru</string>
+</resources>
